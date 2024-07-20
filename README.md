@@ -20,9 +20,9 @@
   * Category
  
 * Data Cleaning Steps:
-  1. Remove rows with missing values.
-  2. Adjust data types.
-  3. Remove irrelevant columns.
+  * Remove rows with missing values.
+  * Adjust data types.
+  * Remove irrelevant columns.
 
 * Cleaned Datasets:
   * Reaction Types
