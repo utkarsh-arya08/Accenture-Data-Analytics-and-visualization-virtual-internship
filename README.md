@@ -1,8 +1,12 @@
 # Accenture-Data-Analytics-and-visualization-virtual-internship
+## Overview:
+This internship project involved analyzing data for a client, Social Buzz, to help them manage their rapid growth and make data-driven decisions. The tasks were divided into several key phases, each demonstrating different aspects of data analytics and visualization.
+
 ## Certificate:
 [Completion Certificate](https://github.com/utkarsh-arya08/Accenture-Data-Analytics-and-visualization-virtual-internship/blob/main/Accenture%20North%20America_Data%20Analytics_completion_certificate.pdf)
 
-## Task 1: Project Understanding
+## Tasks and Skills:
+### Task 1: Project Understanding
 * Client: Social Buzz, managed by Accenture’s Mae Mulligan.
 * Client's Problem: Rapid growth without adequate internal resources.
 * Accenture's Tasks:
