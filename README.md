@@ -28,13 +28,13 @@
   * Reaction Types
   * Reactions
   * Content
-* Merged Dataset: Cleaned Dataset
+* Merged Dataset: [Cleaned Dataset](https://github.com/utkarsh-arya08/Accenture-Data-Analytics-and-visualization-virtual-internship/blob/main/Clean%20Data%20set.xlsx)
 
 ## Task 3: Data Visualization and Storytelling
 Charts Used:
 * Pie Chart
 * Bar Chart
-* Presentation: PowerPoint Presentation
+* Presentation: [PowerPoint Presentation](https://github.com/utkarsh-arya08/Accenture-Data-Analytics-and-visualization-virtual-internship/blob/main/Social%20Buzz%20Presentation.pptx)
 
 ## Task 4: Present to the Client
 Objective: Deliver insights from the analysis through the prepared presentation.
