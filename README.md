@@ -28,7 +28,7 @@
   * Reaction Types
   * Reactions
   * Content
-* Merged Dataset: [Cleaned Dataset](https://github.com/utkarsh-arya08/Accenture-Data-Analytics-and-visualization-virtual-internship/blob/main/Clean%20Data%20set.xlsx)
+* Data Model(Merged Dataset): [Cleaned Dataset](https://github.com/utkarsh-arya08/Accenture-Data-Analytics-and-visualization-virtual-internship/blob/main/Clean%20Data%20set.xlsx)
 
 ## Task 3: Data Visualization and Storytelling
 Charts Used:
